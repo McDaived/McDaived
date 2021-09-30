@@ -1,4 +1,4 @@
-## <h1>Hi I'm Daived  width="28px" alt="hi"></h1>
+## Hi I'm Daived 
 
 
 
