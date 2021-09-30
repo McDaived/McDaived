@@ -1,10 +1,10 @@
 ## Hi I'm Daived 
 
-*Dentist 🦷
-*Programmer 🧑🏻‍💻
-*Security researcher 🔐
-*Digital Creator 📀
-*I used to work in earthlink
+* Dentist 🦷
+* Programmer 🧑🏻‍💻
+* Security researcher 🔐
+* Digital Creator 📀
+* I used to work in earthlink
 
 
 
