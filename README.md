@@ -1,8 +1,8 @@
 ## Hi I'm Daived 
 
-* Dentist 🦷
 * Programmer 🧑🏻‍💻
 * Security researcher 🔐
+* Gamer 
 * Digital Creator 📀
 * I used to work in earthlink
 
