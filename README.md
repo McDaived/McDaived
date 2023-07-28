@@ -4,7 +4,7 @@
 * Security researcher 🔐
 * Gamer 
 * Digital Creator 📀
-  * I used to work in earthlink (Manager of IT-COM Server Company)
+* I used to work in earthlink (Manager of IT-COM Server Company)
 
 
 
