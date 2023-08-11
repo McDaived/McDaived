@@ -18,11 +18,11 @@
         </samp>
 </h3>
 
-* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Programmer" alt="Typing SVG" /></a>
-* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Security+researcher" alt="Typing SVG" /></a> 
-* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Gamer+" alt="Typing SVG" /></a>
-* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Digital+Creator" alt="Typing SVG" /></a>
-* <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=I+used+to+work+in+earthlink+(Manager+of+IT-COM+Server+Company)" alt="Typing SVG" /></a>
+* <a href="https://github.com/McDaived"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Programmer" alt="Typing SVG" /></a>
+* <a href="https://github.com/McDaived"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Security+researcher" alt="Typing SVG" /></a> 
+* <a href="https://github.com/McDaived"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Gamer+" alt="Typing SVG" /></a>
+* <a href="https://github.com/McDaived"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=Digital+Creator" alt="Typing SVG" /></a>
+* <a href="https://github.com/McDaived"><img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=10000&color=0BF700&vCenter=true&width=435&height=15&lines=I+used+to+work+in+earthlink+(Manager+of+IT-COM+Server+Company)" alt="Typing SVG" /></a>
 ## 
 <h2 align="center">
  MY ACCOUNTS
